@@ -7,7 +7,7 @@
 * X-Argus 
 * X-Ladon 
 * TTEncrypt
-* Device ID/Install ID (Xlog)
+* Device ID/Install ID register (Xlog)
 
 ## Contact Telegram [@iothedev] 
 I will provide videos/photos and test:
